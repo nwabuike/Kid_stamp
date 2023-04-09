@@ -258,15 +258,15 @@
 					<div class="col-md-3 col-sm-3">
 						<div class="pricing-item">
 							<h3 class="pricing-title">SINGLE PACKAGE</h3>
-							<p class="pricing-sentence">BUY 1 SET= (contains Addition, Subtraction, Multiplication and Division)</p>
-							<div class="pricing-price"><span class="pricing-currency">&#8358;</span>16,500<span class="pricing-period">/ For This Package</span></div>
-							<img src="./images/4.png" alt="pic" width="auto" height="230px">
+							<p class="pricing-sentence">BUY 1 SET= (contains Addition, Subtraction, Multiplication, Division and Practice Fill in The Blank)</p>
+							<div class="pricing-price"><span class="pricing-currency">&#8358;</span>20,500<span class="pricing-period">/ For This Package</span></div>
+							<img src="./images/11.png" alt="pic" width="auto" height="270px">
 							<br />
 							<ul class="pricing-feature-list">
 
 								<li class="pricing-feature">Free and Fast Delivery.</li>
 								<li class="pricing-feature">As described in the above picture.</li>
-								<li class="pricing-feature">Normal Price: &#8358;25,000.</li>
+								<li class="pricing-feature">Normal Price: &#8358;28,000.</li>
 								<li class="pricing-feature">Save= &#8358;7500.</li>
 							</ul>
 							<button class="btn btn-default">Buy Now!!</button>
@@ -275,14 +275,14 @@
 					<div class="col-md-3 col-sm-3">
 						<div class="pricing-item">
 							<h3 class="pricing-title">SILVER PACKAGE</h3>
-							<p class="pricing-sentence">BUY 1 SET= (contains Addition, Subtraction, Multiplication, Division and Practice Fill in The Blank)</p>
-							<div class="pricing-price"><span class="pricing-currency">&#8358;</span>26500<span class="pricing-period">/ For This Package</span></div>
-							<img src="./images/1.png" alt="pic" width="auto" height="230px">
+							<p class="pricing-sentence">BUY 2 SETs= (contains Addition, Subtraction, Multiplication, Division and Practice Fill in The Blank)</p>
+							<div class="pricing-price"><span class="pricing-currency">&#8358;</span>35,000<span class="pricing-period">/ For This Package</span></div>
+							<img src="./images/11.png" alt="pic" width="auto" height="230px">
 							<ul class="pricing-feature-list">
 								<li class="pricing-feature">Free and Fast Delivery.</li>
 								<li class="pricing-feature">As described in the above picture.</li>
-								<li class="pricing-feature">Normal Price: &#8358;35,000.</li>
-								<li class="pricing-feature">Save= &#8358;5000.</li>
+								<li class="pricing-feature">Normal Price: &#8358;41,000.</li>
+								<li class="pricing-feature">Save= &#8358;6000.</li>
 							</ul>
 							<button class="btn btn-default">Buy Now!!</button>
 						</div>
@@ -290,14 +290,15 @@
 					<div class="col-md-3 col-sm-3">
 						<div class="pricing-item">
 							<h3 class="pricing-title">GOLD PACKAGE</h3>
-							<p class="pricing-sentence">BUY 1 SET= ( 2 Cartoon picture addition and Practice Fill in The Blank)</p>
-							<div class="pricing-price"><span class="pricing-currency">&#8358;</span>37,500<span class="pricing-period">/ For This Package</span></div>
-							<img src="./images/3.png" alt="pic" width="auto" height="230px">
+							<p class="pricing-sentence">BUY 3 SETs= ( contains Addition, Subtraction, Multiplication, Division and Practice Fill in The Blank)</p>
+							<div class="pricing-price"><span class="pricing-currency">&#8358;</span>48,500<span class="pricing-period">/ For This Package</span></div>
+							<img src="./images/22.png" alt="pic" width="auto" height="230px">
 							<ul class="pricing-feature-list">
 								<li class="pricing-feature">Free and Fast Delivery.</li>
 								<li class="pricing-feature">As described in the above picture.</li>
-								<li class="pricing-feature">Normal Price: &#8358;52,500. </li>
-								<li class="pricing-feature">Save &#8358;13000.</li>
+								<li class="pricing-feature">Normal Price: &#8358;61,500. </li>
+								<li class="pricing-feature"> 1 free Cartoon picture addition.</li>
+								<li class="pricing-feature">Save &#8358;13500.</li>
 							</ul>
 							<button class="btn btn-default">Buy Now!!</button>
 						</div>
@@ -306,16 +307,16 @@
 					<div class="col-md-3 col-sm-3">
 						<div class="pricing-item pricing-item__popular">
 							<div class="popular">All In One Bundle</div>
-							<h3 class="pricing-title">Combo package</h3>
-							<p class="pricing-sentence">BUY 1 SET= (contains Addition,Subtraction, Multiplication, Division, 2 Cartoon picture addition and Practice Fill in The Blank)</p>
-							<div class="pricing-price"><span class="pricing-currency">&#8358;</span>57,500<span class="pricing-period">/ For This Package</span></div>
-							<img src="./images/2.png" alt="pic" width="auto" height="230px">
+							<h3 class="pricing-title">FAMILY, SCHOOL OWNER'S AND FRIENDS SET (BUY AS A GROUP)</h3>
+							<p class="pricing-sentence">BUY 4 SETs and GET 1 Set FREE= (contains Addition,Subtraction, Multiplication, Division, and Practice Fill in The Blank, with 1 free Cartoon picture addition )</p>
+							<div class="pricing-price"><span class="pricing-currency">&#8358;</span>60,500<span class="pricing-period">/ For This Package</span></div>
+							<img src="./images/22.png" alt="pic" width="auto" height="230px">
 							<ul class="pricing-feature-list">
 								<li class="pricing-feature">Free and Fast Delivery.</li>
+								<li class="pricing-feature"> 1 free Cartoon picture addition.</li>
 								<li class="pricing-feature">As described in the above picture.</li>
 								<li class="pricing-feature">Normal Price: &#8358;87,000.</li>
-								<li class="pricing-feature">Save &#8358;25,000.</li>
-								<li class="pricing-feature">One Free Gift. </li>
+								<li class="pricing-feature">Save &#8358;26,500.</li>
 							</ul>
 							<button class="btn btn-default">Buy Now!!</button>
 						</div>
@@ -358,7 +359,7 @@
 				</div>
 			</div>
 
-			<div class="text-center">
+			<div class="text-center" width="auto" height="200px">
 				<img src="./images/free-delivery.jpg">
 			</div>
 		</div>
@@ -465,10 +466,10 @@
 								<div class="col-md-12 col-sm-6" style="margin-bottom: 20px;">
 									<select class="form-control form-control-lg" name="senderPackage" class="package" id="senderPackage" required>
 										<option style="color:rgb(0, 0, 0)" value="" disabled selected>Choose your Package</option>
-										<option style="color:rgb(0, 0, 0)" value="SINGLE PACKAGE">SINGLE PACKAGE <b>&#8358;16,500</b></option>
-										<option style="color:rgb(0, 0, 0)" value="SILVER PACKAGE">SILVER PACKAGE <b>&#8358;26,500</b></option>
-										<option style="color:rgb(0, 0, 0)" value="GOLD PACKAGE">GOLD PACKAGE <b>&#8358;15,000</b></option>
-										<option style="color:rgb(0, 0, 0)" value="COMBO PACKAGE">COMBO PACKAGE <b>&#8358;15,000</b></option>
+										<option style="color:rgb(0, 0, 0)" value="SINGLE PACKAGE">1 One Set :- ADD, SUB, MULTI, DIVISION, Fill in The Blank <b>&#8358;20,500</b></option>
+										<option style="color:rgb(0, 0, 0)" value="SILVER PACKAGE">2 Two Sets :- ADD, SUB, MULTI, DIVISION, Fill in The Blank <b>&#8358;35,000</b></option>
+										<option style="color:rgb(0, 0, 0)" value="GOLD PACKAGE">4 Three Sets (free Gift) :- ADD, SUB, MULTI, DIVISION, Fill in The Blank <b>&#8358;48,500</b></option>
+										<option style="color:rgb(0, 0, 0)" value="COMBO PACKAGE">5 Five Sets + 1 Free Set (with another free gift):- ADD, SUB, MULTI, DIVISION, Fill in The Blank <b>&#8358;60,500</b></option>
 									</select>
 								</div>
 								<div class="col-md-5" style="margin-bottom: 20px;">
