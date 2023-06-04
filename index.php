@@ -521,10 +521,10 @@
 								<div class="col-md-12 col-sm-6" style="margin-bottom: 20px;">
 									<select class="form-control form-control-lg" name="senderPackage" class="package" id="senderPackage" required>
 										<option style="color:rgb(0, 0, 0)" value="" disabled selected>Choose your Package</option>
-										<option style="color:rgb(0, 0, 0)" value="1 Set">1 One Set :- ADD, SUB, MULTI, DIVISION, Fill in The Blank <b>&#8358;20,500</b></option>
-										<option style="color:rgb(0, 0, 0)" value="2 Set">2 Two Sets :- ADD, SUB, MULTI, DIVISION, Fill in The Blank <b>&#8358;35,000</b></option>
-										<option style="color:rgb(0, 0, 0)" value="3 Set">3 Three Sets (free Gift) :- ADD, SUB, MULTI, DIVISION, Fill in The Blank <b>&#8358;48,500</b></option>
-										<option style="color:rgb(0, 0, 0)" value="$ set">4 Five Sets + 1 Free Set (with another free gift):- ADD, SUB, MULTI, DIVISION, Fill in The Blank <b>&#8358;60,500</b></option>
+										<option style="color:rgb(0, 0, 0)" value="1 Set @20,500">1 One Set :- ADD, SUB, MULTI, DIVISION, Fill in The Blank <b>&#8358;20,500</b></option>
+										<option style="color:rgb(0, 0, 0)" value="2 Set @35,000">2 Two Sets :- ADD, SUB, MULTI, DIVISION, Fill in The Blank <b>&#8358;35,000</b></option>
+										<option style="color:rgb(0, 0, 0)" value="3 Set @48,500">3 Three Sets (free Gift) :- ADD, SUB, MULTI, DIVISION, Fill in The Blank <b>&#8358;48,500</b></option>
+										<option style="color:rgb(0, 0, 0)" value="4 set @60,500">4 Five Sets + 1 Free Set (with another free gift):- ADD, SUB, MULTI, DIVISION, Fill in The Blank <b>&#8358;60,500</b></option>
 									</select>
 								</div>
 								<div class="col-md-5" style="margin-bottom: 20px;">

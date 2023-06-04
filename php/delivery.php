@@ -22,7 +22,7 @@ if(count($_POST)>0){
 	if($_POST['type']==2){
 		$id=$_POST['id'];
         $delivery_status=$_POST['delivery_status'];
-		$sql = "UPDATE `orders` SET `delivery_status`='$delivery_status' WHERE id=$id";
+		$sql = "UPDATE `kid_stamp` SET `delivery_status`='$delivery_status' WHERE id=$id";
 		if (mysqli_query($conn, $sql)) {
 			echo json_encode(array("statusCode"=>200));
 		} 

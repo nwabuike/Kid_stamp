@@ -9,7 +9,7 @@ $mailBody .= "State: " . $user_state . "\n";
 $mailBody .= "Set: " . $user_package . "\n";
 // $file = "files/codexworld.pdf";
 
-if (mail($toEmail, "Book Order form $user_name ", $mailBody, $mailHeaders)) {
+if (mail($toEmail, "Roller Stamp Order form $user_name ", $mailBody, $mailHeaders)) {
     // $output = json_encode(array('type'=>'message', 'text' => 'Hi '.$user_name .', thank you for the message. We will get back to you shortly.'));
     // die($output);
     echo "Thank you";
