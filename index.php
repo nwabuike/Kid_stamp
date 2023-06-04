@@ -586,7 +586,7 @@
 		$('#addToCartButton').click(function() {
 			fbq('track', 'Purchase', {
 				currency: "NGN",
-				value: 1000
+				value: 10000
 			});
 		});
 	</script>
