@@ -15,18 +15,42 @@
 	<!-- BOOTSTRAP -->
 	<link rel="stylesheet" href="css/bootstrap.min.css">
 	<!-- ICONS -->
-	<link href="../../stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous">
+	<!-- <link href="../../stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous"> -->
+	<link href="https://fonts.googleapis.com/css?family=Roboto+Slab:300,400,700" rel="stylesheet" />
+	<link href="https://fonts.googleapis.com/css?family=Jura:300,400,500,600,700" rel="stylesheet" />
+	<!-- Font-Awesome css-->
+	<link rel="stylesheet" href="fonts/fonts/font-awesome.min.css" />
+	<!-- Font css-->
+	<link rel="stylesheet" href="fonts/fonts/font.css" />
 	<link rel="stylesheet" href="css/ilmosys-icon.css">
 	<link rel="stylesheet" href="js/vendors/swipebox/css/swipebox.min.css">
 	<!-- THEME / PLUGIN CSS -->
 	<link rel="stylesheet" href="js/vendors/slick/slick.css">
 	<link rel="stylesheet" href="css/style.css">
-	<!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
-	<!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
-	<!--[if lt IE 9]>
-		<script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
-		<script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
-	<![endif]-->
+	<script>
+		! function(f, b, e, v, n, t, s) {
+			if (f.fbq) return;
+			n = f.fbq = function() {
+				n.callMethod ?
+					n.callMethod.apply(n, arguments) : n.queue.push(arguments)
+			};
+			if (!f._fbq) f._fbq = n;
+			n.push = n;
+			n.loaded = !0;
+			n.version = '2.0';
+			n.queue = [];
+			t = b.createElement(e);
+			t.async = !0;
+			t.src = v;
+			s = b.getElementsByTagName(e)[0];
+			s.parentNode.insertBefore(t, s)
+		}(window, document, 'script',
+			'https://connect.facebook.net/en_US/fbevents.js');
+		fbq('init', '835009974315912');
+		fbq('track', 'PageView');
+	</script>
+	<noscript><img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=835009974315912&ev=PageView&noscript=1" /></noscript>
+	<!-- End Meta Pixel Code -->
 </head>
 
 <body id="home">
@@ -62,8 +86,8 @@
 			<div class="container">
 				<div class="row center-content">
 					<div class="col-md-5 col-sm-6">
-						<h3>Roller Digital Teaching Stamp Reusable Math.</h3>
-						<p>Roller Digital Teaching Stamp Reusable Math Roller Stamp Roller Design Digital Stamp Within 100 Math Practice Fill in The Blank!</p>
+						<h3>5 in 1 Roller Digital Teaching Stamp Reusable Math.</h3>
+						<p>With over hundreds of preset questions on mathematics to help your child with the right approach to learning!</p>
 					</div>
 					<div class="col-md-7 col-sm-6 no-padding"> <img src="images/pic_1.jpg" class="img-responsive center-block" alt=""> </div>
 				</div>
@@ -89,6 +113,9 @@
 				<div class="about-inline text-center">
 					<h3>Transforming Math Education </h3>
 					<p>How the Kid’s Mathematics Roller Stamp Helped Stella’s Daughter Love Math.</p>
+				</div>
+				<div>
+					<iframe width="100%" height="350" src="https://www.youtube.com/embed/PKDii-Eo0eM" title="Roller Digital Teaching Stamp" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 				</div>
 
 				<div>
@@ -121,7 +148,7 @@
 		</div>
 	</div>
 	<!-- Parallax -->
-	<section class="parallax-content parallax1 text-center" data-stellar-background-ratio="0.4">
+	<!-- <section class="parallax-content parallax1 text-center" data-stellar-background-ratio="0.4">
 		<div class="overlay"></div>
 		<div class="container">
 			<div class="row">
@@ -135,7 +162,7 @@
 				</div>
 			</div>
 		</div>
-	</section>
+	</section> -->
 
 	<!-- benifits 1 -->
 	<div class="intro intro-benifits2">
@@ -143,14 +170,13 @@
 			<div class="row center-content">
 				<div class="col-md-5 ">
 					<!-- <img src="images/features/1.png" class="pull-left img-responsive" alt="" /> -->
-					<iframe width="420" height="315" src="images/Roller.mp4">
-					</iframe>
+					<iframe width="100%" height="350" src="https://www.youtube.com/embed/Ske29uY6qYo" title="Roller Stamp Digital Teaching Stamp Addition and Subtraction Seal New trending unique Item" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 					<p>
 						“I noticed my daughter was beginning to struggle with Mathematics, but now look at her! I don’t think my daughter has ever had this much fun learning!” <b>- Tayler, United States</b>
 					</p>
 				</div>
 				<div class="col-md-7">
-					<h3>WHAT IS MATH ROLLING STAMP?</h3>
+					<h3>WHAT IS 5 in 1 MATH ROLLING STAMP?</h3>
 					<p>Introducing The Revolutionary Math Rolling Stamp – The Ultimate Tool For Your Child’s Math Journey! Say Goodbye To Boring Textbooks And Hello To An Exciting And Interactive Way Of Learning Mathematics. Whether At Home Or In The Classroom, This Incredible Tool Is The Perfect Way To Develop Your Child’s Strong Fundamentals In Math.</p>
 					<p>Our Math Rolling Stamp Is Specifically Designed To Stamp Random Addition, Subtraction, Multiplication, And Division Equations, Making Math Practice Fun And Engaging. With This Innovative Tool, Your Child Will Love Solving Math Problems And Improving Their Skills. And The Best Part? It Keeps Your Children Away From Phones And Tablets, Reducing Screen Time And Helping To Enhance Their Learning Process.</p>
 					<p>Invest In Your Child’s Education With Math Rolling Stamp Today And Watch As They Excel In Mathematics Like Never Before. Don’t Miss Out On This Incredible Opportunity To Give Your Child The Gift Of A Bright And Successful Future!</p>
@@ -203,14 +229,14 @@
 			<div class="row">
 				<div class="col-md-6">
 					<p><b>Affordable Price:</b> We Have The Most Affordable Prices For The ORIGINAL ROLLING STAMP As We Perform Supplies Directly From The Manufacturer.</p>
-					<p><b>No Prepayment:</b> Cash On Delivery Except &#8358;2000 Commitment Fee For Northern States.</p>
+					<p><b>No Prepayment:</b> Cash On Delivery.</p>
 					<p><b>Immediate And High-Quality Service:</b> Shipping Parcels The Same Day.</p>
 
 				</div>
 				<div class="col-md-6">
-					<p><b>Promo Discounts:</b> Up To 50%! For Each Ordered Item.</p>
+					<p><b>Promo Discounts:</b> Up To 60%! For Each Ordered Item.</p>
 					<p><b>No Charges For Placing An Order.</b></p>
-					<p><b>Quick Delivery:</b> 1-4 Days Delivery To Any Location.</p>
+					<p><b>Quick Delivery:</b> 1-7 Days Delivery To Any Location.</p>
 					<p><b>Guarantees:</b> Each Item Undergoes 100% Quality Check Before Shipping.</p>
 
 				</div>
@@ -255,34 +281,34 @@
 			<div class="row">
 				<div class="col-md-12">
 					<!-- Pricing Plan - 1 -->
-					<div class="col-md-3 col-sm-3">
+					<div class="col-md-3 col-sm-4">
 						<div class="pricing-item">
 							<h3 class="pricing-title">SINGLE PACKAGE</h3>
-							<p class="pricing-sentence">BUY 1 SET= (contains Addition, Subtraction, Multiplication, Division and Practice Fill in The Blank)</p>
+							<p class="pricing-sentence">BUY 1 SET= (contains Addition, Subtraction, Multiplication, Division and Practice Fill in The Blank + 5 free refill Ink)</p>
 							<div class="pricing-price"><span class="pricing-currency">&#8358;</span>20,500<span class="pricing-period">/ For This Package</span></div>
-							<img src="./images/11.png" alt="pic" width="auto" height="270px">
+							<!-- <img src="./images/11.png" alt="pic" width="auto" height="270px"> -->
 							<br />
 							<ul class="pricing-feature-list">
 
 								<li class="pricing-feature">Free and Fast Delivery.</li>
 								<li class="pricing-feature">As described in the above picture.</li>
-								<li class="pricing-feature">Normal Price: &#8358;28,000.</li>
-								<li class="pricing-feature">Save= &#8358;7500.</li>
+								<li class="pricing-feature">Normal Price: <b style="color:darkslateblue;">&#8358;28,000</b>.</li>
+								<li class="pricing-feature">Save= <b style="color:darkslateblue;">&#8358;7500</b>.</li>
 							</ul>
 							<button class="btn btn-default">Buy Now!!</button>
 						</div>
 					</div>
-					<div class="col-md-3 col-sm-3">
+					<div class="col-md-3 col-sm-4">
 						<div class="pricing-item">
 							<h3 class="pricing-title">SILVER PACKAGE</h3>
-							<p class="pricing-sentence">BUY 2 SETs= (contains Addition, Subtraction, Multiplication, Division and Practice Fill in The Blank)</p>
+							<p class="pricing-sentence">BUY 2 SETs= (contains Addition, Subtraction, Multiplication, Division and Practice Fill in The Blank + 5 free refill Ink)</p>
 							<div class="pricing-price"><span class="pricing-currency">&#8358;</span>35,000<span class="pricing-period">/ For This Package</span></div>
-							<img src="./images/11.png" alt="pic" width="auto" height="230px">
+							<!-- <img src="./images/11.png" alt="pic" width="auto" height="230px"> -->
 							<ul class="pricing-feature-list">
 								<li class="pricing-feature">Free and Fast Delivery.</li>
 								<li class="pricing-feature">As described in the above picture.</li>
-								<li class="pricing-feature">Normal Price: &#8358;41,000.</li>
-								<li class="pricing-feature">Save= &#8358;6000.</li>
+								<li class="pricing-feature">Normal Price: <b style="color:darkslateblue;">&#8358;41,000</b>.</li>
+								<li class="pricing-feature">Save= <b style="color:darkslateblue;">&#8358;6000</b>.</li>
 							</ul>
 							<button class="btn btn-default">Buy Now!!</button>
 						</div>
@@ -290,15 +316,15 @@
 					<div class="col-md-3 col-sm-3">
 						<div class="pricing-item">
 							<h3 class="pricing-title">GOLD PACKAGE</h3>
-							<p class="pricing-sentence">BUY 3 SETs= ( contains Addition, Subtraction, Multiplication, Division and Practice Fill in The Blank)</p>
+							<p class="pricing-sentence">BUY 3 SETs= ( contains Addition, Subtraction, Multiplication, Division and Practice Fill in The Blank + 5 free refill Ink)</p>
 							<div class="pricing-price"><span class="pricing-currency">&#8358;</span>48,500<span class="pricing-period">/ For This Package</span></div>
-							<img src="./images/22.png" alt="pic" width="auto" height="230px">
+							<!-- <img src="./images/22.png" alt="pic" width="auto" height="230px"> -->
 							<ul class="pricing-feature-list">
 								<li class="pricing-feature">Free and Fast Delivery.</li>
 								<li class="pricing-feature">As described in the above picture.</li>
-								<li class="pricing-feature">Normal Price: &#8358;61,500. </li>
+								<li class="pricing-feature">Normal Price: <b style="color:darkslateblue;">&#8358;61,500</b>. </li>
 								<li class="pricing-feature"> 1 free Cartoon picture addition.</li>
-								<li class="pricing-feature">Save &#8358;13500.</li>
+								<li class="pricing-feature">Save <b style="color:darkslateblue;">&#8358;13500</b>.</li>
 							</ul>
 							<button class="btn btn-default">Buy Now!!</button>
 						</div>
@@ -310,19 +336,44 @@
 							<h3 class="pricing-title">FAMILY, SCHOOL OWNER'S AND FRIENDS SET (BUY AS A GROUP)</h3>
 							<p class="pricing-sentence">BUY 4 SETs and GET 1 Set FREE= (contains Addition,Subtraction, Multiplication, Division, and Practice Fill in The Blank, with 1 free Cartoon picture addition )</p>
 							<div class="pricing-price"><span class="pricing-currency">&#8358;</span>60,500<span class="pricing-period">/ For This Package</span></div>
-							<img src="./images/22.png" alt="pic" width="auto" height="230px">
+							<!-- <img src="./images/22.png" alt="pic" width="auto" height="230px"> -->
 							<ul class="pricing-feature-list">
+								<li class="pricing-feature">Get One complete Set Free.</li>
 								<li class="pricing-feature">Free and Fast Delivery.</li>
 								<li class="pricing-feature"> 1 free Cartoon picture addition.</li>
 								<li class="pricing-feature">As described in the above picture.</li>
-								<li class="pricing-feature">Normal Price: &#8358;87,000.</li>
-								<li class="pricing-feature">Save &#8358;26,500.</li>
+								<li class="pricing-feature">Normal Price: <b style="color:darkslateblue;">&#8358;87,000</b>.</li>
+								<li class="pricing-feature">Save <b style="color:darkslateblue;">&#8358;26,500</b>.</li>
 							</ul>
 							<button class="btn btn-default">Buy Now!!</button>
 						</div>
 					</div>
 				</div>
 			</div>
+		</div>
+	</div>
+	<div class="space100"></div>
+	<!-- Reviews -->
+	<div id="reviews" class="testimonials-white">
+		<div class="container">
+			<div class="about-inline text-center">
+				<h3>WHAT YOU WILL RECEIVE IF YOU ORDER NOW! </h3>
+			</div>
+			<div class="row">
+				<div class="col-md-12 text-center">
+					<div>
+						<div> <img src="images/kid_stamp2.jpg" class="img-responsive" alt="" />
+							<!-- <p>"Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live."</p> <span class="author">Simab Dave - Web Designer</span> -->
+						</div>
+						<div class="space100"></div>
+						<p style="color:crimson"><b> + Free Gift if you Order More than <strong>Two</strong> Package</b></p>
+						<div> <img src="images/slide_3.jpg" class="img-responsive" alt="" />
+							<!-- <p>"Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live."</p> <span class="author">Simab Dave - Web Designer</span> -->
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="space100"></div>
 		</div>
 	</div>
 	<div class="clearfix"></div>
@@ -372,8 +423,12 @@
 				<div class="col-md-12">
 					<h3>HOW TO PLACE YOUR ORDER:</h3>
 					<div class="space10"></div>
-					<p>Please fill the form below with your details and our delivery personnel will contact you with your package.</p>
-					<p>PLEASE DO NOT FILL THE FORM IF YOU ARE NOT READY TO RECEIVE AND PAY FOR YOUR PACKAGE OR IF YOU WILL BE TRAVELING OUT OF TOWN.</p>
+					<p>NOTE: <strong>Please Don’t Order If Cash Isn’t Readily Available Or If You’d Travel Within The Period. Except Someone Is Picking Up on your behalf.</strong></p>
+					<p><strong>Please give us an accurate mobile phone number and precise address for delivery (Use of landmarks is encouraged example Church, bank, eatery and so on)</strong></p>
+					<p class="">For More Information & Enquiry , Whatsapp/Call</p>
+					<!-- <p>Please fill the form below with your details and our delivery personnel will contact you with your package.</p>
+					<p>PLEASE DO NOT FILL THE FORM IF YOU ARE NOT READY TO RECEIVE AND PAY FOR YOUR PACKAGE OR IF YOU WILL BE TRAVELING OUT OF TOWN.</p> -->
+					<p class="navbar-login"><a href="https://wa.me/9029026782/?text=Hello, Please i want to make Enquiry concerning Kid Roller Stamp!!" class="btn btn-ghost btn-md smooth-scroll"><i class="fa fa-whatsapp" style="font-size:40px"></i> 090 290 267 82</a></p>
 				</div>
 			</div>
 		</div>
@@ -409,7 +464,7 @@
 									<input name="senderName" id="senderName" class="form-control" placeholder="Your Name" required="" type="text">
 								</div>
 								<div class="col-md-12 col-sm-6">
-									<input name="senderEmail" id="senderEmail" class="form-control" placeholder="Email Address (for your e-receipt)" required="" type="email">
+									<input name="senderEmail" id="senderEmail" class="form-control" placeholder="Email Address (for your e-receipt)" type="email">
 								</div>
 								<div class="col-md-12 col-sm-6">
 									<input name="senderPhone" id="senderPhone" class="form-control" minlength="11" maxlength="11" placeholder="Your Phone Number" required="" type="tel">
@@ -466,10 +521,10 @@
 								<div class="col-md-12 col-sm-6" style="margin-bottom: 20px;">
 									<select class="form-control form-control-lg" name="senderPackage" class="package" id="senderPackage" required>
 										<option style="color:rgb(0, 0, 0)" value="" disabled selected>Choose your Package</option>
-										<option style="color:rgb(0, 0, 0)" value="SINGLE PACKAGE">1 One Set :- ADD, SUB, MULTI, DIVISION, Fill in The Blank <b>&#8358;20,500</b></option>
-										<option style="color:rgb(0, 0, 0)" value="SILVER PACKAGE">2 Two Sets :- ADD, SUB, MULTI, DIVISION, Fill in The Blank <b>&#8358;35,000</b></option>
-										<option style="color:rgb(0, 0, 0)" value="GOLD PACKAGE">4 Three Sets (free Gift) :- ADD, SUB, MULTI, DIVISION, Fill in The Blank <b>&#8358;48,500</b></option>
-										<option style="color:rgb(0, 0, 0)" value="COMBO PACKAGE">5 Five Sets + 1 Free Set (with another free gift):- ADD, SUB, MULTI, DIVISION, Fill in The Blank <b>&#8358;60,500</b></option>
+										<option style="color:rgb(0, 0, 0)" value="1 Set">1 One Set :- ADD, SUB, MULTI, DIVISION, Fill in The Blank <b>&#8358;20,500</b></option>
+										<option style="color:rgb(0, 0, 0)" value="2 Set">2 Two Sets :- ADD, SUB, MULTI, DIVISION, Fill in The Blank <b>&#8358;35,000</b></option>
+										<option style="color:rgb(0, 0, 0)" value="3 Set">3 Three Sets (free Gift) :- ADD, SUB, MULTI, DIVISION, Fill in The Blank <b>&#8358;48,500</b></option>
+										<option style="color:rgb(0, 0, 0)" value="$ set">4 Five Sets + 1 Free Set (with another free gift):- ADD, SUB, MULTI, DIVISION, Fill in The Blank <b>&#8358;60,500</b></option>
 									</select>
 								</div>
 								<div class="col-md-5" style="margin-bottom: 20px;">
@@ -488,7 +543,7 @@
 								<br />
 							</div>
 
-							<button type="submit" class="btn btn-primary btn-ico">Order Now<i class="fa fa-paper-plane-o"></i></button>
+							<button type="submit" id="addToCartButton" class="btn btn-primary btn-ico">Order Now<i class="fa fa-paper-plane-o"></i></button>
 						</form>
 						<div id="form-messages" class="statusMessage">
 							<p><i class="fa fa-spin fa-cog"></i> Sending your message. Please wait...</p>
@@ -511,7 +566,9 @@
 	<div class="space80"></div>
 	<!-- Copyright -->
 	<div class="footer-copy">
-		<div class="container"> &copy; <?php echo date("Y"); ?>. Paysilo. All rights reserved. </div>
+		<div class="container">
+			All rights reserved - Copyright &copy; <?php echo date("Y"); ?> Kid's Roller Stamp by <a href="#" style="color:aliceblue">Emerald Golden Global Ltd.</a>
+		</div>
 	</div>
 	<!-- JAVASCRIPT =============================-->
 	<script src="js/jquery.js"></script>
@@ -525,6 +582,14 @@
 	<script src="js/main.js"></script>
 	<script src="js/vendors/mc/jquery.ketchup.all.min.js"></script>
 	<script src="js/vendors/mc/main.js"></script>
+	<script type="text/javascript">
+		$('#addToCartButton').click(function() {
+			fbq('track', 'Purchase', {
+				currency: "NGN",
+				value: 1000
+			});
+		});
+	</script>
 </body>
 
 

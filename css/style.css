@@ -183,9 +183,6 @@ ul, ol, li {
 .tc h4{
 	text-align:center !important;
 }
-.tc p{
-	text-align:center !important;
-}
 
 
 /* HEADER STYLES */
@@ -462,7 +459,7 @@ ul, ol, li {
 	color:#fff;
 	font-weight:700;
 }
-.benifits p{
+.benifits{
 	color:#fff;
 	font-size: 16px;
 	line-height:26px;
@@ -484,7 +481,7 @@ ul, ol, li {
 	color:#111;
 	font-weight:700;
 }
-.intro-benifits2 p{
+.intro-benifits2 {
 	padding-top:20px;
 	padding-bottom:20px;
 }
@@ -1134,7 +1131,7 @@ ul, ol, li {
 	padding: 50px 0 25px !important;
 	background: #4e4e91 !important;
 }
-.info-content2 p{
+.info-content2 {
 	font-style:italic;
 	font-size: 16px;
 }
@@ -1324,11 +1321,11 @@ ul, ol, li {
 }
 
 .pricing-feature-list {
-	font-size: 0.95em;
+	font-size: 20px;
 	margin: 0;
 	padding: 0 0 2.5em;
 	list-style: none;
-	color: #666;
+	color: #030303;
 }
 
 .pricing-feature {
@@ -1760,11 +1757,11 @@ ul, ol, li {
 .faq{
 	margin-bottom: 30px;
 }	
-.faq h4{
-	color:#000);
-	font-size: 18px;
-	font-weight:bold;
-	letter-spacing:0.2px;
+ p {
+	/* color:#000; */
+	font-size: 20px;
+	/* font-weight:bold;
+	letter-spacing:0.2px; */
 }
 .faq h4 span{
 	color:#4e4e91;
@@ -2388,7 +2385,7 @@ footer .list-inline li {
 }
 
 .elements-content p {
-	font-size: 14px;
+	font-size: 20px;
 }
 
 .testimonials-white.parallax-content {
@@ -2812,7 +2809,7 @@ footer .list-inline li {
 }
 
 .pricing2 p {
-	color: #444;
+	color: #020202;
 	margin: 10px 0;
 	font-weight: 100;
 	font-size: 14px;

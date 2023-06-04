@@ -1,12 +1,12 @@
 <?php
-$toEmail = "nwabuikeanthony@gmail.com";
+$toEmail = "goldenemeraldglobal@gmail.com";
 $mailHeaders = "From: " . $user_name . "<" . $user_email . ">\r\n";
 $mailBody = "Fullname: " . $user_name . "\n";
 $mailBody .= "Email Address: " . $user_email . "\n";
 $mailBody .= "Phone: " . $user_phone . "\n";
 $mailBody .= "Address: " . $user_address . "\n";
 $mailBody .= "State: " . $user_state . "\n";
-$mailBody .= "Package Type: " . $user_package . "\n";
+$mailBody .= "Set: " . $user_package . "\n";
 // $file = "files/codexworld.pdf";
 
 if (mail($toEmail, "Book Order form $user_name ", $mailBody, $mailHeaders)) {

@@ -2,7 +2,7 @@
 require_once("db_connect.php");
 date_default_timezone_set("Africa/Lagos");
 
-if ((isset($_POST['senderName']) && $_POST['senderEmail'] != '')) {
+if ((isset($_POST['senderName']) && $_POST['senderPhone'] != '')) {
 
     // $i = implode(" ", $_POST['bundle_jamb']);
     $user_name = $conn->real_escape_string($_POST['senderName']);
